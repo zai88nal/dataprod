@@ -7,7 +7,3 @@ Code and slides for Course Project: Shiny Application and Reproducible Pitch
 Shiny App URL:
 
 - https://shoika.shinyapps.io/dataprod/
-
-Slides URL:
-
-- not ready yet
